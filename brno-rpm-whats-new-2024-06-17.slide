@@ -43,7 +43,7 @@ https://github.com/lemenkov
 
 .image img/photo_6017013366972858408_y.jpg _ 700
 
-- [[https://fedoraproject.org/wiki/Changes/DynamicBuildRequires][DynamicBuildRequires]]
+- [[https://fedoraproject.org/wiki/Changes/DynamicBuildRequires][Changes/DynamicBuildRequires]]
 
 * Sysusers systemd support with compatibility macros (0)
 
@@ -56,6 +56,7 @@ https://github.com/lemenkov
 .image img/photo_6017013366972858410_y.jpg _ 700
 
 - How to handle it in spec-file
+- [[https://fedoraproject.org/wiki/Changes/SystemdSysusers][Changes/SystemdSysusers]]
 
 * SPDX tags
 
